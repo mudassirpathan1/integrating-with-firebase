@@ -1,0 +1,31 @@
+.welcome {
+    margin: auto;
+    width: 70%;
+    margin-top: 20%;
+    text-align: center;
+   
+}
+h3 {
+    padding:10px;
+}
+
+h3 span {
+    color: blueviolet;
+    cursor: pointer;
+}
+
+.verifybutton {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    padding: 5px 5px;
+    background-color: rgb(194, 63, 63);
+    border: 1px solid rgb(194, 63, 63);
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.verifybutton:hover {
+    background-color: rgb(207, 21, 21) ;
+}

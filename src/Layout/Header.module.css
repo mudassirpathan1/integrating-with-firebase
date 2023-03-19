@@ -1,0 +1,35 @@
+.header {
+    background-color: rgb(24, 24, 39);
+    height: 50px;
+    position: fixed;
+    top:0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    display: flex;
+
+}
+
+.header h1 {
+    width: 70%;
+    margin: auto;
+}
+.expensepage {
+    cursor: pointer;
+}
+
+.header h2 {
+    width: 20%;
+    text-align: center;
+    margin:auto;
+    font-weight: 200;
+}
+
+.logoutbutton {
+    margin: auto;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+}

@@ -1,0 +1,82 @@
+.login {
+    padding-top: 200px;
+    display: block;
+    width: 100%;
+    height: 450px;
+    background-color: blueviolet;
+    background-image: url(https://img.freepik.com/free-vector/payment-receipt-template-with-flat-design_23-2147906389.jpg?w=740&t=st=1679038943~exp=1679039543~hmac=14bcdbcab7061100800c3c55ffa9359a65fd37163d0744178d89224423d3ff22);
+}
+
+.form{
+   
+    background-color: rgba(233, 228, 228, 0.855);
+    width: 20%;
+    margin: auto;
+    height: 270px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+
+.form h3 {
+    padding: 5px 0 15px;
+    color: rgb(200, 21, 185);
+
+}
+
+.form input {
+    padding: 4px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    width:90%;
+    border: 1px solid grey;
+}
+
+.loginbutton {
+    margin-top: 25px;
+    padding: 7px 5px;
+    width: 80%;
+    border-radius: 7px;
+    border: 0;
+    background-color:rgb(17, 180, 82);
+    color:white;
+    cursor: pointer;
+}
+.forgotpassword {
+    border-bottom: 1cap;
+    border: none;
+    background-color: white;
+    color: rgb(241, 110, 34);
+}
+.forgotpassword:hover{
+    background-color:white;
+    cursor: pointer;
+}
+.form p {
+    margin-top: 15px;
+}
+
+
+.loginbutton:hover{
+    background-color: rgb(96, 225, 60);
+}
+/* body{
+    background-color: blueviolet;
+} */
+
+div p{
+    text-align: center;
+border: 1px solid white;
+width: 20%;
+margin: auto;
+margin-top: 15px;
+padding: 10px 0px;
+background-color: white;
+color: grey;
+border-radius: 5px;
+}
+p span{
+    color: blue;
+    cursor: pointer;
+    
+}

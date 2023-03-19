@@ -1,0 +1,93 @@
+.update {
+    margin-top: 50px;
+}
+.heading {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+.heading p {
+    margin: 5px;
+}
+
+.message {
+    font-size: small;
+    background-color: rgb(212, 185, 185);
+    width: 30%;
+    color: black;
+}
+
+/* .box{
+    margin: auto;
+    width: 40%;
+}
+.updateform {
+    margin: auto;
+    display: block;
+    width: 30%;
+    text-align: left;
+}
+input{
+    
+    margin: 10px;
+}
+.updateform label {
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.updatebutton {
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+} */
+
+.box {
+    width: 25%;
+    margin: auto;
+    margin-top: 70px;
+    border: 1px solid black;
+    padding: 15px;
+    background-color:lightgray;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+
+
+}
+
+.updateform input {
+display: block;
+margin: 10px 0px ;
+padding: 5px;
+border: 1px solid white;
+}
+
+.updateform label{
+    padding: 10px 0px;
+    font-weight: bold;
+}
+
+div h3{
+    display: inline;
+    margin: 10px 5px;
+}
+.cancelbutton {
+    margin-left: 100px;
+    color: white;
+    background-color: rgb(233, 66, 66);
+    border: 1px solid rgb(233, 66, 66);
+    border-radius: 5px;
+
+    
+}
+
+.updateform {
+    margin: 10px 0px;
+}
+
+.updatebutton {
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 1px solid rgb(57, 182, 57);
+    background-color:rgb(57, 182, 57);
+}
